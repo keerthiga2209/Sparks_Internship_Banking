@@ -28,7 +28,7 @@
       <div class="col-sm-12 col-md">
         <div class="heading text-center my-5">
           <h3>Welcome to</h3>
-          <b><h1>MY BANK</h1></b>
+          <b><h1>BEST BANK</h1></b>
         </div>
       </div>
       <div class="col-sm-12 col-md img text-center">
