@@ -1,7 +1,7 @@
 <!-- navbar -->
 
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #550A35" "color: white">
-  <a class="navbar-brand" href="index.php">MY BANK</a>
+  <a class="navbar-brand" href="index.php">BEST BANK</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
